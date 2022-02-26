@@ -3,3 +3,4 @@
 - Ezequiel Campos
 - Maximiliano Mendez
 - Florencia Arando
+- Pedro Lopez
