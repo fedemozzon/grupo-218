@@ -5,3 +5,4 @@
 - Florencia Arando
 - Pedro Lopez
 - Martin Maldonado
+- Jimena Navarro
