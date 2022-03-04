@@ -6,3 +6,4 @@
 - Pedro Lopez
 - Martin Maldonado
 - Jimena Navarro
+- Julia Galetto
