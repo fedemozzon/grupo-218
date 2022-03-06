@@ -7,3 +7,4 @@
 - Martin Maldonado
 - Jimena Navarro
 - Julia Galetto
+- David Sendra
