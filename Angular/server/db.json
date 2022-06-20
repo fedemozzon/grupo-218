@@ -1,0 +1,10 @@
+{
+  "ids": {
+    "Usuario": 2
+  },
+  "models": {
+    "Usuario": {
+      "1": "{\"nombre\":\"FEderico Mozzon\",\"tituloDeDesarrollador\":\"Full stack jr\",\"descripcion\":\"bastante bueno programando\",\"idUsuario\":1}"
+    }
+  }
+}
